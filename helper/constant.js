@@ -1,0 +1,5 @@
+exports.NOTFOUND = 404;
+exports.BADREQUEST = 400;
+exports.UNAUTHORIZED = 401;
+exports.FORBIDDEN = 403;
+exports.INTERNAL_SERVER_ERROR = 500;
